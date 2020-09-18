@@ -7,7 +7,7 @@ public class Lcond3 {
 	{
 		Scanner ler = new Scanner(System.in);
 		int idadee;
-		
+
 		System.out.printf("Para saber a turma, digite a idade: ");
 		idadee = ler.nextInt();
 	

@@ -9,8 +9,7 @@ public class Lcond1 {
 		Scanner ler = new Scanner(System.in);
 		int a;
 		int b;
-		int c;		
-		
+		int c;
 		
 		System.out.printf("Entre com o primeiro valorr: ");
 		a = ler.nextInt();
